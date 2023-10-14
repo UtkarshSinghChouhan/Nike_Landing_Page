@@ -1,8 +1,41 @@
-# React + Vite
+# Nike Website Landing Page 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive landing page for a Nike website built using React 18 and styled with Tailwind CSS. 🌐💨
 
-Currently, two official plugins are available:
+## Table of Contents 📜
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Demo 📺](#demo)
+- [Features 🌟](#features)
+- [Technologies Used 🛠️](#technologies-used)
+- [Getting Started 🚀](#getting-started)
+- [Usage 📝](#usage)
+- [Contributing 🤝](#contributing)
+- [License 📋](#license)
+
+## Demo 📺
+
+Insert screenshots or GIFs of your project here. You can add multiple images or GIFs to showcase different aspects of your website. 📸👇
+
+![screenshot](https://raw.githubusercontent.com/UtkarshSinghChouhan/Nike_Landing_Page/master/public/web-page-screenshot.png)
+
+## Features 🌟
+
+- Fully responsive design for various screen sizes. 📱💻
+- Dynamic content to mimic a real Nike landing page. 🌟🔥
+- Built using React 18 for the latest features. ⚛️🆕
+- Styled with Tailwind CSS for a sleek and modern look. 🎨👌
+
+## Technologies Used 🛠️
+
+- [React 18](https://reactjs.org/) ⚛️
+- [Tailwind CSS](https://tailwindcss.com/) 🌐
+
+
+## 🙏 Credits
+- Developed by Utkarsh Singh Chouhan
+
+## 📧 Contact
+- If you have any questions or suggestions, please feel free to contact me: <br/>
+📩Email: email.utkarshsinghchouhan@gmail.com
+
+
