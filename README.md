@@ -7,14 +7,10 @@ A responsive landing page for a Nike website built using React 18 and styled wit
 - [Demo 📺](#demo)
 - [Features 🌟](#features)
 - [Technologies Used 🛠️](#technologies-used)
-- [Getting Started 🚀](#getting-started)
-- [Usage 📝](#usage)
-- [Contributing 🤝](#contributing)
-- [License 📋](#license)
+- [Credits 🤝](#credits)
+- [Contact 📋](#contact)
 
 ## Demo 📺
-
-Insert screenshots or GIFs of your project here. You can add multiple images or GIFs to showcase different aspects of your website. 📸👇
 
 ![screenshot](https://raw.githubusercontent.com/UtkarshSinghChouhan/Nike_Landing_Page/master/public/web-page-screenshot.png)
 
